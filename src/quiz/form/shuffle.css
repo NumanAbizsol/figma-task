@@ -1,0 +1,8 @@
+/* Your CSS stylesheet */
+.down{
+    display: inline-block;
+    transform: rotate(90deg);
+    transition: transform 0.3s ease;
+    border: 1px solid green;
+  }
+  

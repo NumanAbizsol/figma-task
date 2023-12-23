@@ -1,0 +1,22 @@
+.option {
+    display: flex;
+    margin: 0px;
+    text-align: center;
+    align-items: center;
+    margin-left:6% ;
+    margin-right: 6%;
+    margin-top: 15px;
+    margin-bottom: 10px; 
+    color: #08496D;
+}
+
+.container-border{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    height: 39px;
+    gap: 2px;
+    border: 1px solid #F9FAFB
+}
+  
